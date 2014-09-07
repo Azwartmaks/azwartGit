@@ -8,6 +8,6 @@ Class name {
 
 $start = new name();
 $start ->name();
-echo'new V';
 
+echo 'delete new V';
 ?>
