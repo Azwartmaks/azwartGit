@@ -9,5 +9,6 @@ Class name {
 $start = new name();
 $start ->name();
 
-echo 'delete new V';
+echo 'delete пщщпд new V';
+гуглу рулит
 ?>
